@@ -18,8 +18,7 @@
 
 - 💬 Ask me about **Data Analytics and Data Science**
 
-- 📫 How to reach me...
- **[Linkedin : @priotosh-das](https://www.linkedin.com/in/priotosh-das/) | [Instagram : @__priotosh_](https://www.instagram.com/__priotosh_/)**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
