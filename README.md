@@ -14,7 +14,7 @@
 
 - 💞️ I’m looking to find a good Job...
 
-- 👨‍💻 All of my projects are available at []()
+- 👨‍💻 All of my projects are available at [Link](https://github.com/priotosh265/priotosh265/blob/main/SuperMarket%20Visual.ipynb)
 
 - 💬 Ask me about **Data Analytics and Data Science**
 
